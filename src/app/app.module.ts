@@ -4,7 +4,7 @@ import { RouterModule, Routes} from "@angular/router";
 import { HttpModule } from '@angular/http';
 //AngularFire Imports
 import { AngularFireModule} from 'angularfire2';
-import { AngularFireDatabase} from 'angularfire2/database';
+import { AngularFireDatabase} from 'angularfire2/database-deprecated';
 import { AngularFireAuth } from "angularfire2/auth";
 
 //Component Imports
