@@ -6,7 +6,7 @@ import { HttpModule } from '@angular/http';
 import { AngularFireModule} from 'angularfire2';
 import { AngularFireDatabase} from 'angularfire2/database-deprecated';
 import { AngularFireAuth } from "angularfire2/auth";
-
+//test completed
 //Component Imports
 import { AppComponent } from './app.component';
 import { DashboardComponent } from './components/dashboard/dashboard.component';
